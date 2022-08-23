@@ -2,7 +2,8 @@
 
 ### Мотивация
 
-### Проекты
+### Мои репозитории
+
 
 ### Hard skills
 ![](https://img.shields.io/badge/Python-_numpy,_pandas,_matplotlib,_seaborn,_plotly,_scipy,_sklearn-5fa2ce)  
