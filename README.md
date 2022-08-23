@@ -18,5 +18,5 @@
 - желание обучаться и развиваться
 
 ### Сертификаты
-SQL Stepik  
-Статистика Stepik
+[SQL Stepik](https://stepik.org/cert/1599430)  
+[Статистика Stepik](https://stepik.org/cert/1590398)  
