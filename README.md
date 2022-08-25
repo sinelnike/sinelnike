@@ -1,4 +1,6 @@
-## Привет! Меня зовут Влад, я начинающий продуктовый аналитик. 
+## Привет! 👋
+
+Меня зовут Влад, я junior продуктовый аналитик.  
 
 Ищу позицию в сильной продуктовой команде.  
 Моё [резюме](https://drive.google.com/file/d/1-Ai8TOSXPbgdyDo9DoH8vvCOMdANUrxV/view?usp=sharing) на одну страницу.
@@ -10,12 +12,12 @@
 Вдохновляюсь блогами Noukash, LeftJoin.
 
 ### Hard skills
-![](https://img.shields.io/badge/Python-_numpy,_pandas,_matplotlib,_seaborn,_plotly,_scipy,_sklearn-5fa2ce)  
-![](https://img.shields.io/badge/SQL-_PostgreSQL,_joins,_CTE,_subqueries,_window_functions-5fa2ce)  
-![](https://img.shields.io/badge/BI-_Tableau,_Power_BI-5fa2ce)  
-![](https://img.shields.io/badge/math-_statistics,_probability_theory,_A/B_tests-5fa2ce)  
-![](https://img.shields.io/badge/misc.-_git,_linux,_telegram_bot_API,_excel-5fa2ce)  
-![](https://img.shields.io/badge/ML-_regression_&_classification,_clastering-5fa2ce)
+`python` `numpy` `pandas` `matplotlib` `seaborn` `plotly` `scipy` `sklearn`  
+`SQL` `PostgreSQL` `joins` `CTE` `subqueries` `window functions`  
+`Tableau` `PowerBI`  
+`statistics` `probability theory` `A/B tests`  
+`git` `linux` `telegram bot API` `excel`  
+`ML` `regression` `classification` `clustering`
 
 ### Soft skills
 - критическое мышление
