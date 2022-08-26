@@ -1,23 +1,19 @@
-## Привет! 👋
-
-Меня зовут Влад, я junior продуктовый аналитик.  
+<h3> Привет! 👋<br >Меня зовут Влад, я junior продуктовый аналитик.</h3>  
 
 Ищу позицию в сильной продуктовой команде.  
-Моё [резюме](https://drive.google.com/file/d/1-Ai8TOSXPbgdyDo9DoH8vvCOMdANUrxV/view?usp=sharing) на одну страницу.
+Моё [резюме](https://drive.google.com/file/d/1k33bxbC4syfrrNELbwEjDLmq1h9AzpRX/view?usp=sharing) на одну страницу.  
 
 ### Мотивация
-Нахожу способы улучшения целевых показателей с опорой на данные.  
-По сути занимался этим на должностях далёких от аналитики примеры в резюме.
-Хочу стать востребованным специалистом.
-Вдохновляюсь блогами Noukash, LeftJoin.
+Работа с данными радует открытием контринтуитивных фактов. Особенно круто, когда это полезно для бизнеса.  
+Вдохновляют блоги Leftjoin, Noukash, Анатолия Карпова и Глеба Михайлова.  
 
 ### Hard skills
-`python` `numpy` `pandas` `matplotlib` `seaborn` `plotly` `scipy` `sklearn`  
-`SQL` `PostgreSQL` `joins` `CTE` `subqueries` `window functions`  
-`Tableau` `PowerBI`  
-`statistics` `probability theory` `A/B tests`  
-`git` `linux` `telegram bot API` `excel`  
-`ML` `regression` `classification` `clustering`
+**Python**: `numpy` `pandas` `matplotlib` `seaborn` `plotly` `scipy` `sklearn`  
+**SQL**: `PostgreSQL` `joins` `CTE` `subqueries` `window functions`  
+**BI**: `Tableau` `PowerBI`  
+**Math**: `statistics` `probability theory` `A/B tests`  
+**ML**: `regression` `classification` `clustering`  
+**Misc.**: `git` `linux` `telegram bot API` `excel` `English B2`
 
 ### Soft skills
 - критическое мышление
@@ -30,3 +26,7 @@
 ### Сертификаты
 [SQL Stepik](https://stepik.org/cert/1599430)  
 [Статистика Stepik](https://stepik.org/cert/1590398)  
+
+### Контакты
+vlad.sinelnikow@ya.ru  
+telegram [@sinelnike](https://t.me/sinelnike)
